@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Order now  6800 One-time</name>
+   <tag></tag>
+   <elementGuidId>cbe6dfd9-0eb2-4677-b94c-e38d1a5bf0ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-form-653b618d7b205']/form/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad5857f9-5aaa-4505-b97b-920380ddaf39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-payment-page-component-payment-form-trigger</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>2901b224-df1f-4160-8b77-d9b632660a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order now $ 6800 One-time</value>
+      <webElementGuid>ee6b164f-5e05-40d5-8361-f5f932548355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-form-653b618d7b205&quot;)/form[1]/span[1]</value>
+      <webElementGuid>e96f5823-b13e-43d2-bc30-e6c6dcb25427</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-form-653b618d7b205']/form/span</value>
+      <webElementGuid>ce16e040-1129-420f-8263-11220f2fc3b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stripe card testing details >'])[1]/following::span[1]</value>
+      <webElementGuid>a97d00d1-1caa-4ec6-bb56-0b6768b516c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powered by'])[1]/preceding::span[1]</value>
+      <webElementGuid>7b996447-487f-4512-8917-d6a18b316b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::span[3]</value>
+      <webElementGuid>db672728-d2ab-4a20-9c3f-610559102243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order now $ 6800 One-time']/parent::*</value>
+      <webElementGuid>734f729a-b17d-42bf-aa64-28fab615dc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/span</value>
+      <webElementGuid>6ec9d797-7851-4422-b552-a840f65ea187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Order now $ 6800 One-time' or . = 'Order now $ 6800 One-time')]</value>
+      <webElementGuid>e9994ce4-d0af-4c13-9726-cc6f7e4f8954</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
